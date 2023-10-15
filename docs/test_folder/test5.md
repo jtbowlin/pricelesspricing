@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
-parent: test folder
-nav_order: 1
+title: Test File
+parent: Test Folder
+nav_order: 2
 ---
 
 Tst file in test folder
