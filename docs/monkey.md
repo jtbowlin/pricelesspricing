@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Layout
-parent: Utilities
+title: Monkey
 ---
 
 monkey monkey monkey
