@@ -1,10 +1,8 @@
 title: Priceless Pricing
-description: A pricing strategy reference site
+description: A minimalistic pricing strategy reference site
 theme: just-the-docs
 
 url: https://jtbowlin.github.io/pricelesspricing/
 
-logo: "/logo_black.png"
-
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  About the Author: https://www.linkedin.com/in/jtbowlin/
