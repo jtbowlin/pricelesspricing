@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://jtbowlin.github.io/pricelesspricing/
 
+favicon_ico: "/favicon.ico"
+
 aux_links:
   About the Author: https://www.linkedin.com/in/jtbowlin/
