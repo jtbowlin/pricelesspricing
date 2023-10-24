@@ -8,3 +8,5 @@ favicon_ico: "/assets/images/favicon.ico"
 
 aux_links:
   About the Author: https://www.linkedin.com/in/jtbowlin/
+
+aux_links_new_tab: true
